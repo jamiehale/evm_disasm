@@ -6,3 +6,7 @@ Usage:
 
     evm_disasm < text_file
 
+## Requirements
+
+* Ruby 2.2+
+
