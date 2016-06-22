@@ -12,7 +12,7 @@ end
 
 def next_byte_s
 	result = ( next_char + next_char ).upcase
-	$offset += 2
+	$offset += 1
 	result
 end
 
